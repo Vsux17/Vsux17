@@ -17,6 +17,12 @@
   <img align="center" alt="Victor-Vsux-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   
   
+  </div>
+  
+   
+ <h2> Alguns de meus projetos</h2>
+<div> 
+   - [Labenu Music Awards]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/future4code/Vaughan-LAMA1))
 </div>
   
    
