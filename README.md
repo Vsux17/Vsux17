@@ -21,8 +21,8 @@
   
    
  <h2> Alguns de meus projetos</h2>
- - [Labenu Music Awards]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/future4code/Vaughan-LAMA1))
-  
+<a  - [Labenu Music Awards]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/future4code/Vaughan-LAMA1))
+  ></a> 
    
  <h2> Me encontre nas redes sociais</h2>
 <div> 
