@@ -29,7 +29,7 @@
   
   <h3> Front-end </h3>
   
-   <a href="   https://github.com/future4code/Vaughan-labe-food6" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labefoods" target="_blank"></a> 
+   <a href="https://github.com/future4code/Vaughan-labe-food6" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labefoods" target="_blank"></a> 
 
    
  <h2> Me encontre nas redes sociais</h2>
