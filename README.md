@@ -21,6 +21,8 @@
   
    
  <h2> Alguns de meus projetos</h2>
+    <a href="https://github.com/future4code/Vaughan-LAMA1" target="_blank"><img src="https://img.shields.io/ecologi/carbon/vsux?label=Labenu%20Music%20Awards" target="_blank"></a> 
+  
 <a href=https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/future4code/Vaughan-LAMA1 - [Labenu Music Awards]([https://awesomeopensource.com/project/elangosundar/awesome-README-templates](https://github.com/future4code/Vaughan-LAMA1))
   ></a> 
    
