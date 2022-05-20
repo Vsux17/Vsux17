@@ -21,7 +21,7 @@
   
    
  <h2> Alguns de meus projetos</h2>
-  ### Back-end
+  <h3> Back-end </h3>
     <a href="https://github.com/future4code/Vaughan-LAMA1" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labenu%20Music%20Awards" target="_blank"></a> 
   
    <a href="https://github.com/future4code/Vaughan-labenu-system9" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labenu%20System" target="_blank"></a> 
