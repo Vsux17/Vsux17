@@ -34,7 +34,7 @@
   
     <h3> FullStack </h3>
   
-   <a href="https://github.com/future4code/Vaughan-labe-food6" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=HackathonMeta&logo=HackathonMeta" target="_blank"></a> 
+   <a href="https://gitlab.com/graziellemcm/hackathonmeta" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=HackathonMeta&logo=HackathonMeta" target="_blank"></a> 
 
    
  
