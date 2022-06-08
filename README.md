@@ -18,7 +18,7 @@
   
  
   </div>
-  
+  <div>
 
  <h2> Alguns de meus projetos </h2>
   <h3> Back-end </h3>
@@ -26,19 +26,14 @@
     <a href="https://github.com/future4code/Vaughan-LAMA1" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labenu%20Music%20Awards" target="_blank"></a> 
   
   <a href="https://github.com/future4code/Vaughan-labenu-system9" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labenu%20System" target="_blank"></a> 
-  
-    <h3> Front-end </h3>
-    <div style="display: inline_block"><br>
-  
-      <a href="https://github.com/future4code/Vaughan-labe-food6" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=LabeFoods&logo=LabeFoods" target="_blank"></a> 
-  
-    <h3> Full-Stack </h3>
-      <div style="display: inline_block"><br>
+
    <a href="https://gitlab.com/graziellemcm/hackathonmeta" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=HackathonMeta&logo=HackathonMeta" target="_blank"></a> 
 
-   
+
+
  
 <div> 
+  
   <h2>                          </h2>
 
 
@@ -47,6 +42,7 @@
 <!--   ![Snake animation](https://https://github.com/Vsux17/Vsux17/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
+
 
 
 - 🔭 I’m currently working on ...
