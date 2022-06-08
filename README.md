@@ -30,7 +30,7 @@
   
   <h3> Front-end </h3>
   
-    <a href="https://github.com/future4code/Vaughan-labe-food6" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=LabeFoods&logo=LabeFoods" target="_blank"></a> 
+
   
      ##  FullStack 
   
