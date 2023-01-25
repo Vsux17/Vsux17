@@ -1,4 +1,5 @@
 ### Hi there 👋
+Meu nome é Victor, mas sempre me chamam de Vsux, sou um programador sempre em desenvolvimento, entrei no mundo da programação no final de 2021 e desde lá estou me apaixonando cada dia mais,gosto de sempre ta aprendendo algo novo e pesquisando de tudo.Estudei programação na Lebenu, onde me deu todo o embasamento que tenho e agora estou cada dia estudando e me aperfeiçoando para programar melhor.
 
 <!-- <div align="center">
   <a href="https://github.com/Vsux17">
