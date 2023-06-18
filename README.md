@@ -24,14 +24,19 @@ Meu nome é Victor, mas sempre me chamam de Vsux, sou um programador sempre em d
   <div>
 
  <h2> Alguns de meus projetos </h2>
+ <h3> Full-Stack </h3>
+   <div style="display: inline_block"><br>
+    <a href="https://github.com/future4code/Vaughan-labe-ninja1" target="_blank"><img src="https://img.shields.io/badge/Labeninjas-Published-blue" target="_blank"></a> 
+ 
   <h3> Back-end </h3>
   <div style="display: inline_block"><br>
     <a href="https://github.com/future4code/Vaughan-LAMA1" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labenu%20Music%20Awards" target="_blank"></a> 
-  
-  <a href="https://github.com/future4code/Vaughan-labenu-system9" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labenu%20System" target="_blank"></a> 
     
-  <a href="https://github.com/Vsux17/backen-estante-virtual" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Estante%20Virtual" target="_blank"></a> 
-<h3> Front-end </h3>
+ <a href="https://github.com/future4code/Vaughan-labenu-system9" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Labenu%20System" target="_blank"></a> 
+<br>
+ <a href="https://github.com/Vsux17/backen-estante-virtual" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=Estante%20Virtual" target="_blank"></a> 
+
+  <h3> Front-end </h3>
    <a href="https://gitlab.com/graziellemcm/hackathonmeta" target="_blank"><img src="https://img.shields.io/vaadin-directory/status/vaadinvaadin-grid?label=HackathonMeta&logo=HackathonMeta" target="_blank"></a> 
 
 
